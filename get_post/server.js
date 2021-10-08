@@ -1,7 +1,7 @@
 // BASIC STARTED CONFIG FOR EXPRESS PROJECT
 
    //Install packaje jason   
-// npm init -y or npm init -y ("-y" to avoid questions) 
+// npm init or npm init -y ("-y" to avoid questions) 
 
    //Install express packaje
 //npm i express
